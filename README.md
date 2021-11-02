@@ -1,4 +1,6 @@
-# spark_app
+# Spark Chat
+Spark Chat is a simple chatting app using Flutter with bloc state management.
+
 
 A new Flutter project.
 
